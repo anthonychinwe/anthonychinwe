@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there Friends!👋
+- 🌱 I’m currently learning JavaScript
 <!--
 **anthonychinwe/anthonychinwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
