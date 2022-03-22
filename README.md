@@ -1,6 +1,6 @@
 ### Hello there!👋
 - I'm Anthony, an aspiring Full Stack web developer
-- 🌱 I’m currently learning CSS and JavaScript and applying my knowledge by building projects
+- 🌱 I’m currently learning CSS and JavaScript and applying my knowledge by building and contributing to open source projects
 - 🔭 I’m currently working on;
   - https://github.com/anthonychinwe/Animal-Facts 
   - A blog
