@@ -1,6 +1,6 @@
 ### Hello there!👋
-- I'm Anthony, an aspiring Full Stack web developer
-- 🌱 I’m currently learning CSS and JavaScript and applying my knowledge by building and contributing to open source projects
+- I'm Anthony, a web developer
+- 🌱 I’m currently building my skillset and applying my knowledge by working on and contributing to open source projects
 
 <br>
 
