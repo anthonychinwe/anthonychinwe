@@ -14,11 +14,11 @@
  
  ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/AccessibleForAll/Support/issues/22) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-2. ❗️ Opened issue [#22](https://github.com/AccessibleForAll/Support/issues/22) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
-3. 💪 Opened PR [#344](https://github.com/markodenic/web-development-resources/pull/344) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
-4. ❗️ Opened issue [#7](https://github.com/AccessibleForAll/Resources/issues/7) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
-5. ❗️ Opened issue [#16](https://github.com/AccessibleForAll/Support/issues/16) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+1. 💪 Opened PR [#1](https://github.com/AccessibleForAll/.github/pull/1) in [AccessibleForAll/.github](https://github.com/AccessibleForAll/.github)
+2. 🗣 Commented on [#22](https://github.com/AccessibleForAll/Support/issues/22) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+3. ❗️ Opened issue [#22](https://github.com/AccessibleForAll/Support/issues/22) in [AccessibleForAll/Support](https://github.com/AccessibleForAll/Support)
+4. 💪 Opened PR [#344](https://github.com/markodenic/web-development-resources/pull/344) in [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources)
+5. ❗️ Opened issue [#7](https://github.com/AccessibleForAll/Resources/issues/7) in [AccessibleForAll/Resources](https://github.com/AccessibleForAll/Resources)
 <!--END_SECTION:activity-->
 
 <!--
